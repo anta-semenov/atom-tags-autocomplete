@@ -1,9 +1,13 @@
 {
   "name": "tsx-tags-autocomplete",
   "main": "./lib/tags-autocomplete",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Autocomplete tags in tsx",
-  "keywords": ["tsx", "tags", "autocomplete"],
+  "keywords": [
+    "tsx",
+    "tags",
+    "autocomplete"
+  ],
   "activationCommands": [],
   "repository": "https://github.com/anta-semenov/tsx-tags-autocomplete",
   "license": "MIT",
